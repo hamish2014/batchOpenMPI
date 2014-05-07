@@ -1,0 +1,4 @@
+include LICENSE README.md
+recursive-include examples *.txt *.py *.pyc
+prune examples/batchOpenMPI.py
+recursive-include docs *.html *.css *.png *.gif *.js *.txt

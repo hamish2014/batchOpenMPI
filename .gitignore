@@ -1,0 +1,8 @@
+*~
+*.pyc
+examples/batchOpenMPI.py
+dist
+build
+MANIFEST
+html_docs.zip
+docs/_*
