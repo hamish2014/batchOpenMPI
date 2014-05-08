@@ -7,7 +7,7 @@ setup(name='batchOpenMPI',
       py_modules=['batchOpenMPI',],
       author="Antoine Dymond",
       author_email="antoine.dymond@gmail.com",
-      url="https://github.com/hamish2014/optTune/",
+      url="https://github.com/hamish2014/batchOpenMPI/",
       license="MIT",
       classifiers = [  #taken from http://pypi.python.org/pypi?:action=list_classifiers
         "Development Status :: 3 - Alpha", 
